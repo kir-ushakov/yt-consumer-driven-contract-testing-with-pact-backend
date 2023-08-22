@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test:pact": "ts-node ./pact/tests.ts"
+  },
+  "devDependencies": {
+    "@pact-foundation/pact": "^10.1.3"
+  }
+}
